@@ -1,3 +1,4 @@
+[Video Tutorial](https://github.com/Minesraft2/Blooket-Cheats/blob/main/tutorial/GoogleChrome.md#Video-Tutorial-Old-ish)
 # 1. Navigate to `obfuscated` folder
 ![Google Chrome part 1](/tutorial/chrome/part%20(1).png)
 # 2. Open `Bookmarklets.html` file
@@ -18,3 +19,8 @@
 ![Google Chrome part 9](/tutorial/chrome/part%20(9).png)
 # 10. Happy cheating
 ![Google Chrome part 10](/tutorial/chrome/part%20(10).png)
+
+Video Tutorial (Old-ish)
+<video width="320" height="240" controls>
+  <source src="chrome/tutorial.mp4" type="video/mp4">
+</video>
